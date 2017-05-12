@@ -17,5 +17,5 @@
       Trystan Humann
   </author>
 	<icon src="icon.png" />
-	<!--<gap:splash src="img/splash.gif" />-->
+	<gap:splash src="img/splash.gif" />
 </widget>
